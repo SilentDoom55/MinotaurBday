@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Silen\\Desktop\\MinoBday\\MinoBday\\MinoBday\\MinoBday.csproj": {}
+    "C:\\Users\\Silent\\Desktop\\!Stuff\\School\\2022\\Parallel\\MinoBday\\MinoBday\\MinoBday\\MinoBday.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Silen\\Desktop\\MinoBday\\MinoBday\\MinoBday\\MinoBday.csproj": {
+    "C:\\Users\\Silent\\Desktop\\!Stuff\\School\\2022\\Parallel\\MinoBday\\MinoBday\\MinoBday\\MinoBday.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Silen\\Desktop\\MinoBday\\MinoBday\\MinoBday\\MinoBday.csproj",
+        "projectUniqueName": "C:\\Users\\Silent\\Desktop\\!Stuff\\School\\2022\\Parallel\\MinoBday\\MinoBday\\MinoBday\\MinoBday.csproj",
         "projectName": "MinoBday",
-        "projectPath": "C:\\Users\\Silen\\Desktop\\MinoBday\\MinoBday\\MinoBday\\MinoBday.csproj",
-        "packagesPath": "C:\\Users\\Silen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Silen\\Desktop\\MinoBday\\MinoBday\\MinoBday\\obj\\",
+        "projectPath": "C:\\Users\\Silent\\Desktop\\!Stuff\\School\\2022\\Parallel\\MinoBday\\MinoBday\\MinoBday\\MinoBday.csproj",
+        "packagesPath": "C:\\Users\\Silent\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Silent\\Desktop\\!Stuff\\School\\2022\\Parallel\\MinoBday\\MinoBday\\MinoBday\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Silen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Silent\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

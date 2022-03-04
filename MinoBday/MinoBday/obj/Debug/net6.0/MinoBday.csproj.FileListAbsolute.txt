@@ -1,0 +1,15 @@
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoBday\MinoBday\MinoBday\bin\Debug\net6.0\MinoBday.exe
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoBday\MinoBday\MinoBday\bin\Debug\net6.0\MinoBday.deps.json
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoBday\MinoBday\MinoBday\bin\Debug\net6.0\MinoBday.runtimeconfig.json
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoBday\MinoBday\MinoBday\bin\Debug\net6.0\MinoBday.dll
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoBday\MinoBday\MinoBday\bin\Debug\net6.0\ref\MinoBday.dll
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoBday\MinoBday\MinoBday\bin\Debug\net6.0\MinoBday.pdb
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoBday\MinoBday\MinoBday\obj\Debug\net6.0\MinoBday.csproj.AssemblyReference.cache
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoBday\MinoBday\MinoBday\obj\Debug\net6.0\MinoBday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoBday\MinoBday\MinoBday\obj\Debug\net6.0\MinoBday.AssemblyInfoInputs.cache
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoBday\MinoBday\MinoBday\obj\Debug\net6.0\MinoBday.AssemblyInfo.cs
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoBday\MinoBday\MinoBday\obj\Debug\net6.0\MinoBday.csproj.CoreCompileInputs.cache
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoBday\MinoBday\MinoBday\obj\Debug\net6.0\MinoBday.dll
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoBday\MinoBday\MinoBday\obj\Debug\net6.0\ref\MinoBday.dll
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoBday\MinoBday\MinoBday\obj\Debug\net6.0\MinoBday.pdb
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoBday\MinoBday\MinoBday\obj\Debug\net6.0\MinoBday.genruntimeconfig.cache
